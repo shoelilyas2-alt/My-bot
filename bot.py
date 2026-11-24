@@ -22,7 +22,7 @@ while True:
                 entry = float(x['entryPrice'])
         if amt == 0:
             if last is not None:
-                qty = 40 / p
+                qty = 5 / p
                 if qty < 1:
                     qty = 1
                 if p > last:

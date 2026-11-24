@@ -1,1 +1,1 @@
-pythonan-binance
+ccxt
